@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Richard Kalibbala
 
+## ABOUT
+A ReactJS project with reddit Api and Axios for fetching data
+
 ## Available Scripts
 
 In the project directory, you can run:
