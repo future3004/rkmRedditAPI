@@ -17,8 +17,9 @@ class Footer extends Component {
               <div className="col l4 offset-l2 s12">
                 <h5 className="white-text">Quick Links</h5>
                 <ul>
-                  <li><a className="grey-text text-lighten-3" >Home</a></li>
-                  <li><a className="grey-text text-lighten-3" >How To Use</a></li>
+                  <li><Link to="/" className="grey-text text-lighten-3" >Home</Link></li>
+                  <li><Link to="/how-to" className="grey-text text-lighten-3" >How To Use</Link></li>
+                  <li><Link to="/search" className="grey-text text-lighten-3" >Search Topic</Link></li>
                 </ul>
               </div>
             </div>
